@@ -56,15 +56,6 @@ Actualmente disponible para proyectos freelance a través de Workana y contacto 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victor828&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor828&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### 📫 Contacto
 
 - Portafolio: [portafolio.veom.lat](https://portafolio.veom.lat/)
